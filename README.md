@@ -176,8 +176,8 @@ End to End Machine learning Project/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd "End to End Machine learning Project"
+   git clone https://github.com/DarshanCode2005/Fullstack-ML-Churn-Prediction-Project.git
+   cd "Fullstack-ML-Churn-Prediction-Project"
    ```
 
 2. **Create virtual environment**
