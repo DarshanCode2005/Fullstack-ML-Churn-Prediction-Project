@@ -16,6 +16,8 @@ A comprehensive machine learning solution for predicting customer churn in the t
 - [Troubleshooting](#troubleshooting)
 
 ## Screenshot
+![WhatsApp Image 2025-10-26 at 04 49 32](https://github.com/user-attachments/assets/e217a743-160b-4a3b-9189-59d4cea3f3f1)
+
 
 
 ## 🎯 Overview
